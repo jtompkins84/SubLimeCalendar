@@ -4,6 +4,12 @@
 
 SubLimeCalender is the result of a team project created for my Introduction to Object-Oriented Software Engineering course. It is a very basic Android calendar that includes features such as add/edit/view calendar events and to switch between day, week, month, year, and event-list views.
 
+The teams consisted of five people. The application was created using the Android Studio IDE. Team members had very little to no experience using the tools required for the project.
+
+## The Take Away
+
+A good Agile methodology was learned that can be applied to a wide range of projects and systems. Rapid design and development was practiced. Over all, we had exposure to methods that can be expanded and modified to fit a wide range of projects, and we were also taught how to create well formed UML diagrams to communicate design effectively.
+
 ## Motivation
 
 Everyone in the course was assigned the same project. Per course instructions, we were placed in a team of five people of the instructor's choosing. The course was designed to teach Agile design methodologies by lecture, class discussion, and then practice the use of these methodologies.
